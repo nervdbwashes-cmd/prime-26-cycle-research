@@ -104,9 +104,10 @@
 我们通过计算发现，在变换 `p → LPF(10p + (p mod 10))` 下，质数动力系统展现出高度的统一性，几乎全部收敛于一个特定的26步循环。系统的复杂性被简化为一个优雅的循环结构。这一发现通过大规模随机抽样和对特殊数集的针对性测试得到了验证。
 
 ## 附录：代码与复现
-本研究的全部代码、可视化脚本及数据可在以下仓库获取：[此处可放置您的GitHub仓库链接]
+本研究的全部代码、可视化脚本及数据可在以下仓库获取：prime-26-cycle-research https://github.com/nervdbwashes-cmd/prime-26-cycle-research
 
-核心函数 `targeted_largest_prime_factor` 与 `find_preimages_fast` 的实现确保了探索的效率与深度。
+本研究由DEEPSEEK协助完成
+
 
 
 
